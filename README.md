@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O MjrLinks é um agregador de links para usar como cartão de visitas online.
+Agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Licença
 
@@ -40,4 +40,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito por by MBDeveloper
+Feito por BMB Digital.
