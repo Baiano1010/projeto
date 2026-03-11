@@ -1,4 +1,4 @@
-<h1 align="center"> MJRLinks </h1>
+<h1 align="center"> BMB Links </h1>
 
 <p align="center">
 Programa exclusivo, promovido pelo ensino Rocketseat para tecnologias WEB.
